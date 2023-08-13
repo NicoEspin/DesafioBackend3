@@ -1,0 +1,83 @@
+[
+  {
+    "title": "Cafe",
+    "description": "Café tostado",
+    "price": 1600,
+    "thumbnail": "imagen2.jpg",
+    "code": "BVCD15",
+    "stock": 120,
+    "id": 2
+  },
+  {
+    "title": "Té",
+    "description": "Té de hierbas",
+    "price": 160,
+    "thumbnail": "imagen3.jpg",
+    "code": "BVSB16",
+    "stock": 100,
+    "id": 3
+  },
+  {
+    "title": "Dulce de leche",
+    "description": "Sancor",
+    "price": 300,
+    "thumbnail": "imagen4.jpg",
+    "code": "PRD4",
+    "stock": 50,
+    "id": 4
+  },
+  {
+    "title": "Dulce de frutilla",
+    "description": "Arcor",
+    "price": 220,
+    "thumbnail": "imagen5.jpg",
+    "code": "PRD5",
+    "stock": 70,
+    "id": 5
+  },
+  {
+    "title": "Doritos",
+    "description": "Snack",
+    "price": 500,
+    "thumbnail": "imagen6.jpg",
+    "code": "PRD6",
+    "stock": 70,
+    "id": 6
+  },
+  {
+    "title": "Cheetos",
+    "description": "Snack 2",
+    "price": 500,
+    "thumbnail": "imagen7.jpg",
+    "code": "PRD7",
+    "stock": 70,
+    "id": 7
+  },
+  {
+    "title": "Agua",
+    "description": "Villa del Sur",
+    "price": 500,
+    "thumbnail": "imagen8.jpg",
+    "code": "PRD8",
+    "stock": 70,
+    "id": 8
+  },
+  {
+    "title": "Manteca",
+    "description": "Sin Sal",
+    "price": 500,
+    "thumbnail": "imagen9.jpg",
+    "code": "PRD9",
+    "stock": 70,
+    "id": 9
+  },
+  {
+    "title": "Agua Saborizada",
+    "description": "Sabor manzana",
+    "price": 500,
+    "thumbnail": "imagen10.jpg",
+    "code": "PRD10",
+    "stock": 70,
+    "id": 10
+  }
+]
