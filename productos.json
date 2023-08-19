@@ -1,8 +1,17 @@
 [
   {
+    "title": "Leche",
+    "description": "Leche descremada",
+    "price": 250,
+    "thumbnail": "imagen1.jpg",
+    "code": "ASDF12",
+    "stock": 115,
+    "id": 1
+  },
+  {
     "title": "Cafe",
     "description": "Café tostado",
-    "price": 1600,
+    "price": 1500,
     "thumbnail": "imagen2.jpg",
     "code": "BVCD15",
     "stock": 120,
@@ -38,7 +47,7 @@
   {
     "title": "Doritos",
     "description": "Snack",
-    "price": 500,
+    "price": 1200,
     "thumbnail": "imagen6.jpg",
     "code": "PRD6",
     "stock": 70,
@@ -78,15 +87,6 @@
     "thumbnail": "imagen10.jpg",
     "code": "PRD10",
     "stock": 70,
-    "id": 10
-  },
-  {
-    "title": "Leche",
-    "description": "Leche descremada",
-    "price": 250,
-    "thumbnail": "imagen1.jpg",
-    "code": "ASDF12",
-    "stock": 115,
     "id": 1
   }
 ]

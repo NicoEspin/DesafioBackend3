@@ -2,10 +2,10 @@
   "name": "desafio-3",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "desafio3.js",
   "type": "module",
   "scripts": {
-    "dev": "echo \"nodemon src/app.js"
+    "dev": "nodemon src/desafio3.js --ignore src/desafio3.js" 
   },
   "keywords": [],
   "author": "",
